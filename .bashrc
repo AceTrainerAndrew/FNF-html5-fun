@@ -1,0 +1,1 @@
+export HAXE_STD_PATH="/home/linuxbrew/.linuxbrew/lib/haxe/std"
