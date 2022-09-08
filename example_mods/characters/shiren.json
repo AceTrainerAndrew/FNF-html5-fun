@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-247,
+				-221
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-322,
+				-216
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-333,
+				-185
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-288,
+				-243
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-367,
+				-229
+			],
+			"loop": false,
+			"anim": "poke",
+			"fps": 24,
+			"name": "Poke",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-245,
+				-221
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle2",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Shiren",
+	"position": [
+		-250,
+		-70
+	],
+	"healthicon": "shiren",
+	"flip_x": false,
+	"healthbar_colors": [
+		251,
+		222,
+		188
+	],
+	"camera_position": [
+		300,
+		250
+	],
+	"sing_duration": 6.1,
+	"scale": 0.999999999999999
+}

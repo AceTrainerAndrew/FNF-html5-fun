@@ -1,0 +1,3 @@
+Value 1: OP or PLR
+Value 2: Char name
+Chars: andrew, ace, bf, luna, pico

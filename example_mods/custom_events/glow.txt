@@ -1,0 +1,3 @@
+Value 1:
+	1 = active/add glow
+	2 = not active/remove glow
